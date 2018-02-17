@@ -344,7 +344,7 @@ body {
 
 div#radio {
 	position: absolute;
-	left: 4%;
+	left: 50%;
 	top: 8%;
 	margin: -50px 0 0 -50px;
     z-index: 20;
