@@ -21,8 +21,8 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
-  margin: 0;
-  padding: 0;
+  margin: -10;
+  padding: -20;
   border: 0;
   font-size: 100%;
   font: inherit;
@@ -30,7 +30,7 @@ time, mark, audio, video {
 }
 
 body {
-  	margin: 0;
+  	margin: -20;
 	width: 100%;
 	height: 100%;
    	font-family: 'Montserrat', sans-serif;
@@ -54,7 +54,6 @@ body {
 }
 
 html, body {
-	top margin: -50;
   height: 100%;
 }
 
